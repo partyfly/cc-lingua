@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Local, user-specific config that may contain an API key — never commit
+config.json
+client/config.json
